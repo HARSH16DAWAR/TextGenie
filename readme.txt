@@ -1,6 +1,3 @@
-Submitted by:-
-Harsh Dawar 102016039 3CS10
-Ayush Nagpure 102016100 3CS10
 
 The dependencies are located in requirements.txt file
 
