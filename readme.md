@@ -1,3 +1,4 @@
+The generated sequences and the trained models will be uploaded to google-drive [here](https://drive.google.com/drive/folders/1_TDXxKvrO8AUtgrtBJ-MpsiJt1QgefXG?usp=sharing)
 
 The dependencies are located in requirements.txt file
 
